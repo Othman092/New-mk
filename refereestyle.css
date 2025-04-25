@@ -1,0 +1,14 @@
+H3 {text-align: center;
+  color:black;
+  font-size: x-large;
+
+}
+body {
+background-color: rgb(174, 163, 199);
+}
+table {
+    text-align: center;
+}
+td {
+  width: 300px;  
+}

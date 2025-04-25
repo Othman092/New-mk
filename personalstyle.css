@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
+    background-color: rgb(212, 203, 115);
+    color: black;
+}
+h2 {
+    text-align: center;
+
+}
+.profile-container {
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+.info-row {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
+.label{
+    font-weight: bold;
+    width: 40%;
+
+}
+.value {
+    width: 55%;
+}
